@@ -10,7 +10,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `< Full-Stack Developer />` · `{ AI/ML Explorer }` · `// Digital Experience Creator`
+### `{ AI/ML Developer }` · `< Full-Stack Developer />` · `// Digital Experience Creator`
 
 *Building immersive web experiences, intelligent applications, and ideas that leave an impact.*
 
@@ -27,7 +27,7 @@
 
 ```
 > whoami
-  sharan@dev ~ $ Full-Stack Engineer | AI/ML Practitioner | Creative Builder
+  sharan@dev ~ $ AI/ML Developer | Full-Stack Engineer | Creative Builder
 ```
 
 ---
@@ -37,9 +37,9 @@
 ```json
 {
   "name"      : "Sharan",
-  "role"      : "Full-Stack Developer & AI/ML Explorer",
-  "education" : "Computer Science Graduate",
-  "focus"     : ["Web Dev", "AI Engineering", "Deep Learning"],
+  "role"      : "AI/ML Engineer & Full-Stack Developer",
+  "education" : "AI & DS Graduate",
+  "focus"     : ["AI Engineering", "Deep Learning", "Machine Learning", "Web Dev"],
   "building"  : ["Interactive Websites", "AI-Powered Apps", "Cinematic Web Experiences"],
   "currently" : "Learning Deep Learning & Advanced Full-Stack Architecture",
   "motto"     : "Create. Learn. Build. Repeat."
