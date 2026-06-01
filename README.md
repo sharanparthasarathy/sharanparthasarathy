@@ -21,9 +21,9 @@ Machine Learning • Deep Learning • AI Engineering
 ### 🌐 Connect
 
 * Portfolio: https://sharan-codes.vercel.app
-* LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-* Instagram: https://instagram.com/YOUR-INSTAGRAM
-* Facebook: https://facebook.com/YOUR-FACEBOOK
-* X: https://x.com/YOUR_USERNAME
+* LinkedIn: https://www.linkedin.com/in/sharan-parthasarathy-27928124b
+* Instagram: https://instagram.com/sharan.codes
+* Facebook: https://www.facebook.com/share/1AuoAbgHPq/
+* X: https://x.com/sharancodes36
 
 > "Turning ideas into experiences through code."
