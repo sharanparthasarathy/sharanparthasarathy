@@ -1,29 +1,63 @@
-# 👋 Hi, I'm Sharan
+# ⚫ Hello, I'm Sharan
 
-💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+### 💻 Full-Stack Developer • 🤖 AI/ML Explorer • 🎬 Digital Experience Creator
 
-Building modern web applications, immersive digital experiences, and intelligent solutions with code.
+> *Building immersive web experiences, intelligent applications, and ideas that leave an impact.*
 
-### 🚀 Tech Stack
+---
 
-React • TypeScript • Next.js • Tailwind CSS • Node.js • Python • Machine Learning
+# 🌑 About Me
 
-### 🔥 Featured Work
+🕷️ Passionate about Web Development, Artificial Intelligence, and Machine Learning
 
-* 👁️ ARCHIVE-7 — Analog horror & found-footage web experience
-* 🎥 Horror Short Film Website — Interactive client project
-* 🤖 AI & ML Projects — Exploring intelligent systems and automation
+🎓 Computer Science Graduate exploring modern software engineering
 
-### 🌱 Currently Learning
+🚀 Developing interactive websites, AI-powered solutions, and creative digital experiences
 
-Machine Learning • Deep Learning • AI Engineering
+🧠 Currently learning Deep Learning, AI Engineering, and Advanced Full-Stack Development
 
-### 🌐 Connect
+🎬 Built cinematic horror experiences, portfolio platforms, and client-focused web applications
 
-* Portfolio: https://sharan-codes.vercel.app
-* LinkedIn: https://www.linkedin.com/in/sharan-parthasarathy-27928124b
-* Instagram: https://instagram.com/sharan.codes
-* Facebook: https://www.facebook.com/share/1AuoAbgHPq/
-* X: https://x.com/sharancodes36
+⚡ Motto: **"Create. Learn. Build. Repeat."**
 
-> "Turning ideas into experiences through code."
+---
+
+# 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sharan-codes.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM)
+
+[![Facebook](https://img.shields.io/badge/Facebook-111111?style=for-the-badge\&logo=facebook\&logoColor=white)](YOUR_FACEBOOK)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](YOUR_X)
+
+---
+
+# ⚙️ Tech Stack
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+🕯️ **ARCHIVE-7** — Analog horror & found-footage web experience
+
+🎥 **Horror Film Website** — Interactive client project for a short film
+
+🤖 **AI & ML Projects** — Intelligent systems, automation, and predictive solutions
+
+---
+
+### 🌙 Developer Quote
+
+> "The best experiences are built where creativity meets technology."
