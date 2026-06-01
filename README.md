@@ -106,8 +106,8 @@
 
 <div align="center">
 
-`STATUS` · **● OPEN TO WORK** · `MADURAI, IN`
+`STATUS` · **● OPEN TO WORK** · `CHENNAI, IN`
 
-*Replace `YOUR_USERNAME`, `YOUR_LINKEDIN`, `YOUR_INSTAGRAM`, `YOUR_X` with your actual links.*
+
 
 </div>
