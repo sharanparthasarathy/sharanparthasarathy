@@ -78,7 +78,7 @@
 | `03` | **AI & ML Projects** | Intelligent systems, automation & predictive solutions | `[ WIP ]` |
 
 ---
-
+<!--
 ## 📊 `// github_stats`
 
 <div align="center">
@@ -90,7 +90,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=1a1a1a)
 
 </div>
-
+-->
 ---
 
 ## 🌙 `// quote`
