@@ -15,7 +15,7 @@
 *Building immersive web experiences, intelligent applications, and ideas that leave an impact.*
 
 [![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://sharan-codes.vercel.app)
-[![Facebook](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/share/1AuoAbgHPq/)
+[![Facebook](https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AuoAbgHPq/)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharanp.codes/)
 [![X](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharancodes36?lang=en)
 
