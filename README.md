@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharanp.codes/)
 [![X](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharancodes36?lang=en)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=flat-square&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=sharanparthasarathy&color=00ff88&style=flat-square&label=VISITORS)
 
 </div>
 
