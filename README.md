@@ -1,41 +1,29 @@
-# Hi 👋 I'm Sharan
+# 👋 Hi, I'm Sharan
 
-## About Me
+💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
-💻 Full Stack Web Developer
+Building modern web applications, immersive digital experiences, and intelligent solutions with code.
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+### 🚀 Tech Stack
 
-🚀 Building immersive web experiences and modern applications
+React • TypeScript • Next.js • Tailwind CSS • Node.js • Python • Machine Learning
 
-🎯 Interested in:
-- AI & ML
-- React & TypeScript
-- Python
-- Data Science
-- UI/UX Design
+### 🔥 Featured Work
 
-## Featured Projects
+* 👁️ ARCHIVE-7 — Analog horror & found-footage web experience
+* 🎥 Horror Short Film Website — Interactive client project
+* 🤖 AI & ML Projects — Exploring intelligent systems and automation
 
-### ARCHIVE-7
-A cinematic horror archive website featuring recovered tapes, surveillance feeds, encrypted signals, and immersive storytelling.
+### 🌱 Currently Learning
 
-### Horror Film Website
-Custom interactive website developed for a short-film client with cinematic visuals and engaging user experience.
+Machine Learning • Deep Learning • AI Engineering
 
-## Tech Stack
+### 🌐 Connect
 
-- React
-- TypeScript
-- Tailwind CSS
-- Node.js
-- Python
-- Machine Learning
+* Portfolio: https://sharan-codes.vercel.app
+* LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+* Instagram: https://instagram.com/YOUR-INSTAGRAM
+* Facebook: https://facebook.com/YOUR-FACEBOOK
+* X: https://x.com/YOUR_USERNAME
 
-## Connect With Me
-
-🌐 Portfolio: https://sharan-codes.vercel.app
-
-💼 LinkedIn: Your LinkedIn URL
-
-📧 Email: your-email@example.com
+> "Turning ideas into experiences through code."
