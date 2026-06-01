@@ -67,7 +67,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00ff88)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
+<!---
 
 ## 🚀 `// featured_projects`
 
@@ -77,7 +77,7 @@
 | `02` | **Horror Film Website** | Interactive client project for a short film | `[ LIVE ]` |
 | `03` | **AI & ML Projects** | Intelligent systems, automation & predictive solutions | `[ WIP ]` |
 
----
+--->
 <!--
 ## 📊 `// github_stats`
 
