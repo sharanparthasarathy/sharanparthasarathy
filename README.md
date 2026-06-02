@@ -79,14 +79,14 @@
 
 ### Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![REST_API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00ff88)
 
 ### Database & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88)
-![Pythonanywhere](https://img.shields.io/badge/Pythonanywhere-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![Pythonanywhere](https://img.shields.io/badge/Pythonanywhere-000000?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### AI & Automation
