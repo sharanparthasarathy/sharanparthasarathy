@@ -81,7 +81,6 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![REST_API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00ff88)
 
 ### Database & Cloud
 
@@ -91,7 +90,7 @@
 
 ### AI & Automation
 
-![GeminiAI](https://img.shields.io/badge/GeminiAI-000000?style=for-the-badge&logo=openai&logoColor=00ff88)
+![GeminiAI](https://img.shields.io/badge/GeminiAI-000000?style=for-the-badge&logo=google&logoColor=00ff88)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00ff88)
 ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Web_Scraping](https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -133,7 +132,7 @@
 
 <div align="center">
 
-`STATUS` · **● OPEN TO WORK** · `CHENNAI, IN`
+`STATUS` · **● OPEN TO WORK** · `TAMIL NADU, IN`
 
 
 
