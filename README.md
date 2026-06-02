@@ -72,40 +72,34 @@
 
 ### Frontend Development
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff88)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<!--![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff88)-->
+<!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)-->
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)-->
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00ff88)
-![Framer_Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+<!--![Framer_Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)-->
 
 ### Backend & APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<!--![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)-->
+<!--![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)-->
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![REST_API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00ff88)
 
 ### Database & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![Pythonanywhere](https://img.shields.io/badge/Pythonanywhere-000000?style=for-the-badge&logo=firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### AI & Automation
 
+![GeminiAI](https://img.shields.io/badge/GeminiAI-000000?style=for-the-badge&logo=openai&logoColor=00ff88)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00ff88)
 ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Web_Scraping](https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff88)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00ff88)
-
 <!---
 
 ## 🚀 `// featured_projects`
@@ -135,8 +129,8 @@
 ## 🌙 `// quote`
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║       தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்             --o-o---o^o
-║       மெய்வருத்தக் கூலி தரும்.                            -o--o---^o
+║         தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்          --o-o---o^o
+║         மெய்வருத்தக் கூலி தரும்.                          -o--o---^o
 ║     Let fate write the ending. I will write the effort.       --o-o-o-^o
 ╚══════════════════════════════════════════════════════════════╝
 ```
