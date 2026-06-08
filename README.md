@@ -77,9 +77,9 @@
 ![Web_Scraping](https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### Client Works
-[![BookSwap](https://img.shields.io/badge/BookSwap-000000?style=for-the-badge&logo=google&logoColor=00ff88)](...)
-[![RDFrames](https://img.shields.io/badge/RDFrames-000000?style=for-the-badge&logo=openai&logoColor=00ff88)](...)
-[![GeneTrace](https://img.shields.io/badge/GeneTrace-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)](...)
+[![Book Swap](https://img.shields.io/badge/BookSwap-000000?style=for-the-badge&logo=google&logoColor=00ff88)](https://book-swap-topaz.vercel.app/)
+[![RD Frames](https://img.shields.io/badge/RDFrames-000000?style=for-the-badge&logo=openai&logoColor=00ff88)](https://rd-frames.vercel.app/)
+[![GeneTrace](https://img.shields.io/badge/GeneTrace-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://sharan-codes.vercel.app/works/genetrace)
 
 ---
 
