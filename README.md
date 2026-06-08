@@ -94,6 +94,14 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00ff88)
 ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Web_Scraping](https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
+
+### Client Works
+
+[![BookSwap](https://img.shields.io/badge/BookSwap-000000?style=for-the-badge&logo=google&logoColor=00ff88)](https://book-swap-topaz.vercel.app/)
+[![RDFrames](https://img.shields.io/badge/Frames-000000?style=for-the-badge&logo=openai&logoColor=00ff88)](https://rd-frames.vercel.app/)
+[![Genetrace](https://img.shields.io/badge/Genetics-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://sharan-codes.vercel.app/works/genetrace)
+
+
 <!---
 
 ## 🚀 `// featured_projects`
