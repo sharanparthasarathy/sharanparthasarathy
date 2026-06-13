@@ -62,6 +62,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PyTroch](https://img.shields.io/badge/Pytroch-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database & Cloud
 
