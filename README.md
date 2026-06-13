@@ -66,6 +66,7 @@
 ### Database & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88)
 ![Pythonanywhere](https://img.shields.io/badge/Pythonanywhere-000000?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
